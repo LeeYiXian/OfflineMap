@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LXMapGraphicsView", "LXMapGraphicsView.vcxproj", "{AA62DE1D-427E-44B8-9376-AFA9D5B4BCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA62DE1D-427E-44B8-9376-AFA9D5B4BCCB}.Release|x64.ActiveCfg = Release|x64
+		{AA62DE1D-427E-44B8-9376-AFA9D5B4BCCB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADEB268-D3ED-44D1-9624-1664D55E85CC}
+	EndGlobalSection
+EndGlobal
